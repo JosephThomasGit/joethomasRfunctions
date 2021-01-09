@@ -1,11 +1,10 @@
 Package: joethomasRfunctions
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: JoeThomasRfunctions
+Version: 0.0.1
+Author: Joseph Thomas - origin: Jan 2021
+Maintainer: JT <jthomas2716@gmail.com>
+Description: A random sampling of statistics functions I've written in R. Mostly related to binning and correlating data.
+License: MIT
 Encoding: UTF-8
 LazyData: true
