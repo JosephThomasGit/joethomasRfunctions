@@ -1,5 +1,10 @@
 # joethomasRfunctions
-An assortment of R functions I've written in one package. Current functions bin data and calculate moving averages and moving correlations. Install this package in R using devtools (more information in the readme file).
+An assortment of R functions I've written in one package. 
+
+Current functions:
+- bin data
+- calculate moving averages
+- calculate moving correlations
 
 To install this package:
 
